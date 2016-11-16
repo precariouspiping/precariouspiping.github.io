@@ -6,7 +6,6 @@
     padding:0;
     font-family: Avenir;
     line-height: 1.5em;
-    color: #757370
   }
 
   /* Change the background color    */
@@ -89,7 +88,7 @@
   }
 
 .site-menu {
-text-align: left;
+text-align: center;
 margin: 0px 0 0 ;
 padding: 10px 0;
 }
@@ -108,7 +107,7 @@ padding: 10px 0;
 .site-menu a {
   font-weight: normal;
   padding: 0px 5px;
-  font-size: 30px;
+  font-size: 20px;
   color: #757370;
 }
 
