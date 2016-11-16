@@ -17,7 +17,7 @@
   /* 100px by 100px tile.           */
   header {
     background: #C190FF;
-    height: 125px;
+    height: 100px;
   }
 
   header h1 {
@@ -107,8 +107,8 @@ padding: 10px 0;
 
 .site-menu a {
   font-weight: normal;
-  padding: 0px 5px;
-  font-size: 30px;
+  padding: 5px 25px;
+  font-size: 24px;
   color: #757370;
 }
 
