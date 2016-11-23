@@ -23,6 +23,7 @@
   header h1 {
     margin: 20;
     padding-top: 15px;
+    color: #C190FF;
   }
 
   main {
@@ -58,7 +59,7 @@
   }
 
   p {
-    color: #000;
+    color: #757370;
   }
 
   nav ul {
